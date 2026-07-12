@@ -51,10 +51,12 @@ Software Engineering Undergraduate | Full Stack Developer | AI Enthusiast
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img width="48%" src="![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Vidushi-W&show_icons=true&theme=tokyonight)" />
-  <img width="48%" src="![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Vidushi-W&layout=compact&theme=tokyonight)" />
-</p>
+
+  <p align="center">
+    <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Vidushi-W&show_icons=true&theme=tokyonight" />
+    <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Vidushi-W&layout=compact&theme=tokyonight" />
+  </p>
+
 
 
 
