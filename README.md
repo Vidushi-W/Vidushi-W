@@ -57,7 +57,7 @@ Software Engineering Undergraduate | Full Stack Developer | AI Enthusiast
 
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vidushi-W&layout=compact)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Vidushi-W&layout=compact&theme=tokyonight)
 
 
 
