@@ -24,7 +24,6 @@ Software Engineering Undergraduate | Full Stack Developer | AI Enthusiast
 
 - 🌱 Currently learning Spring Boot, Microservices, and Computer Vision
 
-- 🔬 Working on an AI-Powered Context-Aware Cognitive Navigation System for Visually Impaired Individuals
 
 - 📫 Reach me: vidushishavindi@gmail.com 
 
@@ -54,7 +53,7 @@ Software Engineering Undergraduate | Full Stack Developer | AI Enthusiast
 
 
 
-[![Vidushi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vidushi-W&show_icons=true)](https://github-readme-stats.vercel.app/api?username=Vidushi-W&show_icons=true&cache_seconds=1800)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Vidushi-W&show_icons=true&theme=tokyonight)
 
 
 
