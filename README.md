@@ -54,7 +54,7 @@ Software Engineering Undergraduate | Full Stack Developer | AI Enthusiast
 
 
 
-![Vidushi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vidushi-W&show_icons=true)
+[![Vidushi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vidushi-W&show_icons=true)](https://github-readme-stats.vercel.app/api?username=Vidushi-W&show_icons=true&cache_seconds=1800)
 
 
 
