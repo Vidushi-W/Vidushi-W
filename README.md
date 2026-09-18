@@ -52,12 +52,13 @@ Software Engineering Undergraduate | Full Stack Developer | AI Enthusiast
 
 
 
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vidushi-W&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="./profile/stats.svg" height="170" />
+  <img src="./profile/top-langs.svg" height="170" />
 </p>
-
 
 
 
