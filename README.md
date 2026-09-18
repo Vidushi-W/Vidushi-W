@@ -52,13 +52,13 @@ Software Engineering Undergraduate | Full Stack Developer | AI Enthusiast
 
 
 
+
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vidushi-W&theme=tokyonight" />
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vidushi-W&theme=tokyonight" />
+  <img width="55%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vidushi-W&theme=tokyonight" />
 </p>
-
 
 
 
